@@ -11,4 +11,10 @@ Shelve v.3.7
 OS v.3.7
 
 # Compatible OSs
-Windows 
+Windows
+
+# How to Launch Program
+1) Download the code.
+2) Extract the zip folder.
+3) Open your command prompt and ensure that its in the extracted folder.
+4) Enter the command: python main.py
