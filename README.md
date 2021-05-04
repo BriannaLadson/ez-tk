@@ -1,6 +1,8 @@
 # EZ Tk v.0.1
 EZ Tk is a program that allows users to create the graphical part of Tkinter GUIs without writing code.
 
+[Demo](https://www.youtube.com/watch?v=WrR5tgw3JDo)
+
 # Tech Stack
 Tkinter v.8.6
 
